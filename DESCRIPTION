@@ -1,9 +1,8 @@
 Package: akf
-Title: What the Package Does (One Line, Title Case)
+Title: This package is for function for UCLA MAE class (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "MAE Class of 2021",
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
